@@ -1,8 +1,7 @@
 {
   "name": "qa_playground",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "main": "jest.config.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +20,6 @@
   "devDependencies": {
     "@types/jest": "^26.0.23",
     "jest": "^26.6.3"
-  }
+  },
+  "description": ""
 }

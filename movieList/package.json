@@ -1,8 +1,7 @@
 {
   "name": "movieList",
   "version": "1.0.0",
-  "description": "",
-  "main": "",
+  "main": "index.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +20,6 @@
   },
   "devDependencies": {
     "@types/jest": "^26.0.23"
-  }
+  },
+  "description": ""
 }
